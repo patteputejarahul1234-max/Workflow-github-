@@ -1,3 +1,16 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type/waving&color=auto&height=200&section=header&text=Pattepu%20Teja%20Rahul&fontSize=50" alt="Banner" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=patteputejarahul1234-max&show_icons=true&theme=tokyonight&count_private=true" alt="Stats Summary" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patteputejarahul1234-max&layout=compact&theme=tokyonight" alt="Languages Summary" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=patteputejarahul1234-max&theme=tokyonight&margin-w=15" alt="Trophies" width="100%">
+</p>
+
 # 👋 Hi, I'm Pattepu Teja Rahul
 
 ### 🚀 Java Full Stack Developer & Computer Science Student
