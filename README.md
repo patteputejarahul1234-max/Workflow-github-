@@ -60,12 +60,8 @@ An aspiring **Java Full Stack Developer with AI Integration** specializing in de
 ### 📊 Engineering Metrics & Telemetry
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=patteputejarahul1234-max&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=7EE787" width="49%" alt="GitHub Metrics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patteputejarahul1234-max&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" width="49%" alt="Language Breakdown" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=patteputejarahul1234-max&theme=onedark&column=7&no-bg=true&no-frame=true" width="100%" alt="Achievements Tracker" />
+  <img src="./assets/github-metrics.svg" width="49%" alt="GitHub Metrics" />
+  <img src="./assets/language-metrics.svg" width="49%" alt="Language Breakdown" />
 </p>
 
 ---
