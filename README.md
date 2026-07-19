@@ -3,10 +3,6 @@
 <!-- ✨ Enterprise Corporate Banner ✨ -->
 <img src="https://capsule-render.vercel.app/type=waving&color=0D1117&height=200&section=header&text=PATTEPU%20TEJA%20RAHUL&fontSize=42&fontColor=58A6FF&fontAlignY=45" alt="Header Banner" width="100%" />
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=patteputejarahul1234-max&label=PROFILE+SYSTEM+TRAFFIC&color=58A6FF&style=flat-square" alt="System Traffic Counter" />
-
 </div>
 
 <br/>
@@ -54,10 +50,10 @@ An aspiring **Java Full Stack Developer with AI Integration** specializing in de
 
 <div align="center">
 
-### 📊 Engineering Metrics & Telemetry
+### 📊 GitHub Stats & Graphs
 
-<img src="assets/github-metrics.svg" alt="GitHub Metrics" height="185"/>
-<img src="assets/language-metrics.svg" alt="Language Metrics" height="185"/>
+<img src="https://raw.githubusercontent.com/patteputejarahul1234-max/Workflow-github-/main/assets/github-metrics.svg" alt="GitHub Metrics" height="185"/>
+<img src="https://raw.githubusercontent.com/patteputejarahul1234-max/Workflow-github-/main/assets/language-metrics.svg" alt="Top Languages" height="185"/>
 
 <br/><br/>
 
@@ -67,9 +63,9 @@ An aspiring **Java Full Stack Developer with AI Integration** specializing in de
 
 <br/><br/>
 
-### 🐍 Live Codebase Contribution Flow
+### 🐍 Watch the snake eat my contributions
 
-<img src="assets/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" width="95%"/>
+<img src="https://raw.githubusercontent.com/patteputejarahul1234-max/Workflow-github-/main/assets/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" width="95%"/>
 
 <br/><br/>
 
@@ -79,7 +75,18 @@ An aspiring **Java Full Stack Developer with AI Integration** specializing in de
 💼 **Target:** Software Engineering / Product Core Engineering Roles *(Target: 10+ LPA Systems Integration)*
 🎓 **Matrix:** Computer Science and Engineering | ANITS
 
-<br/>
+<br/><br/>
+
+### 📫 Let's Connect
+
+<a href="mailto:rahulpattepu1234@gmail.com"><img src="https://img.shields.io/badge/Email-58A6FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/patteputejarahul1234-max"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=patteputejarahul1234-max&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Security_Layer-AES_256-58A6FF?style=flat-square" alt="Security Layer" />
 <img src="https://img.shields.io/badge/System_Build-Verified-7EE787?style=flat-square" alt="Build Status" />
