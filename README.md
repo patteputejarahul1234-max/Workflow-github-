@@ -68,12 +68,11 @@ An aspiring Java Full Stack Developer with AI Integration specializing in design
 
 ---
 
-### 🐍 Live Codebase Contribution Flow
+### 🐍 Codebase Activity Stream
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/patteputejarahul1234-max/Workflow-github-/main/assets/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" width="100%" />
+<p align="center">
+  <img src="./assets/grid-snake-dark.svg" alt="Activity Snake" width="100%"/>
 </p>
-
 ---
 
 ### 📜 Verified Industry Credentials
