@@ -72,7 +72,9 @@ An aspiring **Java Full Stack Developer with AI Integration** specializing in de
 ### 📜 Verified Credentials & Strategic Synergy
 
 🏆 **Smart India Hackathon (SIH) National Finalist** | 🏅 **NPTEL Core Engineering (Gold Standard Eligibility)**
+
 💼 **Target:** Software Engineering / Product Core Engineering Roles *(Target: 10+ LPA Systems Integration)*
+
 🎓 **Matrix:** Computer Science and Engineering | ANITS
 
 <br/><br/>
