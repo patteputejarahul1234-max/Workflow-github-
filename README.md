@@ -93,5 +93,10 @@ An aspiring **Java Full Stack Developer with AI Integration** specializing in de
 ---
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Security_Layer-AES_256-58A6FF?style=flat-square" alt="Security Layer" />
+  <img src="https://img.shields.io/badge/System_Build-Verified-7EE787?style=flat-square" alt="Build Status" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/type/waving&color=0D1117&height=100&section=footer" width="100%"/>
 </p>
