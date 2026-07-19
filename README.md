@@ -70,18 +70,14 @@ An aspiring **Java Full Stack Developer with AI Integration** specializing in de
 ---
 
 ### 📊 Engineering Metrics & Telemetry
-
-<p align="center">
-  <img src="./assets/github-metrics.svg" width="49%" alt="GitHub Metrics" />
-  <img src="./assets/language-metrics.svg" width="49%" alt="Language Breakdown" />
+<p align="left">
+  <img src="assets/github-metrics.svg" alt="GitHub Metrics" width="49%" />
+  <img src="assets/language-metrics.svg" alt="Language Metrics" width="49%" />
 </p>
 
----
-
 ### 🐍 Codebase Activity Stream
-
-<p align="center">
-  <img src="./assets/grid-snake-dark.svg" alt="Activity Snake" width="100%"/>
+<p align="left">
+  <img src="assets/github-contribution-grid-snake.svg" alt="Activity Stream" />
 </p>
 
 ---
