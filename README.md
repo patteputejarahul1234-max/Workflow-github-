@@ -24,32 +24,38 @@ An aspiring Java Full Stack Developer with AI Integration specializing in design
 </p>
 
 ---
-
 ### 📦 Core Product Portfolio
 
-#### 🤖 DevNexus — AI-Powered Distributed Developer Platform
-*   **Build:** `Passing` | **Coverage:** `94%` | **Deployment:** `Containerized`
-*   **Architecture:** Built an end-to-end full-stack network ecosystem optimized with Redis memory management caching layouts.
-*   **System Integrity:** Designed custom authorization layers alongside decoupled task engines and scalable real-time notification microservices.
-*   **AI Integration:** Embedded a containerized AI Assistant, automated internal career roadmapping generators, and a semantic structural Resume Analyzer.
-*   **Infrastructure:** Configured native Dockerization setups and managed pipeline automations leveraging automated cloud execution targets.
+#### 🤖 **DevNexus** — *AI-Powered Distributed Developer Platform* 
+> `Build: Passing` | `Coverage: 94%` | `Deployment: Containerized`
 
-#### 🎓 SkillForge AI — Intelligent Learning Management Core
-*   **Engine:** `Active` | **Telemetry:** `Analytical`
+*   **Architecture:** Built an end-to-end full-stack network ecosystem optimized with **Redis** memory management caching layouts.
+*   **System Integrity:** Designed custom authorization layers alongside decoupled task engines and scalable real-time notification microservices.
+*   **AI Integration:** Embedded a containerized **AI Assistant**, automated internal career roadmapping generators, and a semantic structural **Resume Analyzer**.
+*   **Infrastructure:** Configured native **Dockerization** setups and managed pipeline automations leveraging automated cloud execution targets.
+
+#### 🎓 **SkillForge AI** — *Intelligent Learning Management Core*
+> `Engine: Active` | `Telemetry: Analytical`
+
 *   **Core Logic:** Built an applied-AI microservices core tracking user behavioral analytics data patterns.
 *   **Execution:** Formulated personalized, state-changing curriculum structures delivering deep recommendation system metrics.
 
-#### ⚡ SprintFlow — Enterprise Agile Engine
-*   **Node:** `Stable` | **WebSockets:** `Connected`
+#### ⚡ **SprintFlow** — *Enterprise Agile Engine*
+> `Node: Stable` | `WebSockets: Connected`
+
 *   **Features:** Developed a modern workspace orchestration environment for synchronized task structures.
 *   **Impact:** Solved state mutation complexities across concurrent real-time team collaboration spaces.
 
-#### 🛒 CommerceNova — Full-Stack E-Commerce Service
-*   **Gateway:** `Integrated` | **Analytics:** `Live`
+#### 🛒 **CommerceNova** — *Full-Stack E-Commerce Service*
+> `Gateway: Integrated` | `Analytics: Live`
+
 *   **Features:** Programmed modular transaction logic with end-to-end payment integrations.
 *   **Dashboards:** Deployed data-driven admin analytics matrices with structural telemetry tracking.
 
-> **Micro-Services & Infrastructure Utilities:** 🔹 APIForge (Mocking Engine) | 🔹 AuthCore (Stateful Security) | 🔹 LinkSphere (Distributed Router)
+> **Micro-Services & Infrastructure Utilities:** 
+> 🔹 `APIForge` (Mocking Engine) | 🔹 `AuthCore` (Stateful Security) | 🔹 `LinkSphere` (Distributed Router)
+
+---
 
 #### 🖥️ Active Production Repositories
 
