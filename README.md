@@ -79,6 +79,7 @@ An aspiring Java Full Stack Developer with AI Integration specializing in design
 <p align="center">
   <img src="./assets/grid-snake-dark.svg" alt="Activity Snake" width="100%"/>
 </p>
+
 ---
 
 ### 📜 Verified Industry Credentials
