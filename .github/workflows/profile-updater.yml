@@ -1,0 +1,32 @@
+name: Core Profile Automation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Contribution Snake Animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: patteputejarahul1234-max
+          outputs: |
+            assets/grid-snake.svg
+            assets/grid-snake-dark.svg?palette=github-dark&color_snake=%237EE787&color_dots=%23161b22,%230e4429,%23006d32,%2326a641,%2339d353
+          
+      - name: Commit and Push Assets
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: automated asset compilation [skip ci]"
+          file_pattern: "assets/*.svg"
