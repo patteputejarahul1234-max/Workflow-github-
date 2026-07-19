@@ -57,6 +57,36 @@ An aspiring **Java Full Stack Developer with AI Integration** specializing in de
 
 ---
 
+### 💻 Design Patterns & Production Architecture
+
+```java
+public class AIModelCircuitBreaker {
+    private static volatile AIModelCircuitBreaker instance;
+    private boolean isClosed = true;
+
+    private AIModelCircuitBreaker() {}
+
+    public static AIModelCircuitBreaker getInstance() {
+        if (instance == null) {
+            synchronized (AIModelCircuitBreaker.class) {
+                if (instance == null) instance = new AIModelCircuitBreaker();
+            }
+        }
+        return instance;
+    }
+
+    public synchronized boolean checkSystemHealth() {
+        return this.isClosed;
+    }
+}
+
+---
+
+### 📋 PART 2: Copy this and paste it directly below Part 1
+
+```markdown
+---
+
 ### 📊 Engineering Metrics & Telemetry
 
 <p align="center">
