@@ -1,114 +1,91 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=0D1117&height=200&section=header&text=PATTEPU%20TEJA%20RAHUL&fontSize=42&fontColor=58A6FF&fontAlignY=45" alt="Header Banner" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=patteputejarahul1234-max&label=PROFILE+SYSTEM+TRAFFIC&color=58A6FF&style=flat-square" alt="System Traffic Counter" />
-</p>
+<!-- ✨ Enterprise Corporate Banner ✨ -->
+<img src="https://capsule-render.vercel.app/type=waving&color=0D1117&height=200&section=header&text=PATTEPU%20TEJA%20RAHUL&fontSize=42&fontColor=58A6FF&fontAlignY=45" alt="Header Banner" width="100%" />
 
-## 🚀 Software Engineer & Product Builder
+<br/>
 
-An aspiring Java Full Stack Developer with AI Integration specializing in designing secure distributed backends, highly available REST APIs, and automated intelligent application layers. Currently refining robust system engineering paradigms aimed at scalable enterprise-level architectures.
+<img src="https://komarev.com/ghpvc/?username=patteputejarahul1234-max&label=PROFILE+SYSTEM+TRAFFIC&color=58A6FF&style=flat-square" alt="System Traffic Counter" />
+
+</div>
+
+<br/>
+
+<table align="center" border="0">
+<tr>
+<td width="42%" valign="top">
+
+### 🚀 Core Engineering Pitch
+
+An aspiring **Java Full Stack Developer with AI Integration** specializing in designing secure distributed backends, highly available REST APIs, and automated intelligent application layers. Focused on robust enterprise systems integration.
+
+---
+
+#### 🛠️ Production Stack
+* **Backend Core:** `Java` `Spring Boot`
+* **Data Layer:** `SQL` `Redis`
+* **DevOps:** `Docker` `Git Automation`
 
 ---
 
-### 🛠️ Core Production Stack
+#### 🧠 System Focus
+* 🛡️ **Defensive Design:** Robust error handling paradigms.
+* 📊 **Telemetry:** Latency and container tracking.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</p>
+</td>
+<td width="58%" valign="top">
 
----
 ### 📦 Core Product Portfolio
 
-#### 🤖 **DevNexus** — *AI-Powered Distributed Developer Platform* 
-> `Build: Passing` | `Coverage: 94%` | `Deployment: Containerized`
+| 🤖 Enterprise Core | 💻 Key Infrastructure Layers |
+| :--- | :--- |
+| **DevNexus** | `Java` `Spring Boot` `Redis` `Docker` `AI Assistant`<br/>• 94% coverage distributed developer platform ecosystem.<br/>• Real-time notification services & semantic resume analyzer. |
+| **SkillForge AI** | `Python` `Applied AI` `Analytics Pipeline`<br/>• Applied-AI microservices system tracking user behavior patterns.<br/>• State-changing curriculum structures & recommendation metrics. |
+| **SprintFlow** | `WebSockets` `Concurrent Node Orchestration`<br/>• Workspace synchronization layer solving state mutation complexities. |
+| **CommerceNova** | `Modular Transaction Logic` `Admin Analytics`<br/>• Full-stack e-commerce gateway with end-to-end payment matrix. |
 
-*   **Architecture:** Built an end-to-end full-stack network ecosystem optimized with **Redis** memory management caching layouts.
-*   **System Integrity:** Designed custom authorization layers alongside decoupled task engines and scalable real-time notification microservices.
-*   **AI Integration:** Embedded a containerized **AI Assistant**, automated internal career roadmapping generators, and a semantic structural **Resume Analyzer**.
-*   **Infrastructure:** Configured native **Dockerization** setups and managed pipeline automations leveraging automated cloud execution targets.
+> **Utilities:** 🔹 APIForge | 🔹 AuthCore | 🔹 LinkSphere
 
-#### 🎓 **SkillForge AI** — *Intelligent Learning Management Core*
-> `Engine: Active` | `Telemetry: Analytical`
+</td>
+</tr>
+</table>
 
-*   **Core Logic:** Built an applied-AI microservices core tracking user behavioral analytics data patterns.
-*   **Execution:** Formulated personalized, state-changing curriculum structures delivering deep recommendation system metrics.
+<br/>
 
-#### ⚡ **SprintFlow** — *Enterprise Agile Engine*
-> `Node: Stable` | `WebSockets: Connected`
-
-*   **Features:** Developed a modern workspace orchestration environment for synchronized task structures.
-*   **Impact:** Solved state mutation complexities across concurrent real-time team collaboration spaces.
-
-#### 🛒 **CommerceNova** — *Full-Stack E-Commerce Service*
-> `Gateway: Integrated` | `Analytics: Live`
-
-*   **Features:** Programmed modular transaction logic with end-to-end payment integrations.
-*   **Dashboards:** Deployed data-driven admin analytics matrices with structural telemetry tracking.
-
-> **Micro-Services & Infrastructure Utilities:** 
-> 🔹 `APIForge` (Mocking Engine) | 🔹 `AuthCore` (Stateful Security) | 🔹 `LinkSphere` (Distributed Router)
-
----
-
-#### 🖥️ Active Production Repositories
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=patteputejarahul1234-max&repo=Workflow-github-&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=58A6FF&icon_color=7EE787" max-width="49%" alt="Repository Status" />
-</p>
-
----
+<div align="center">
 
 ### 📊 Engineering Metrics & Telemetry
 
-<p align="left">
-  <img src="assets/github-metrics.svg" alt="GitHub Metrics" width="49%" />
-  <img src="assets/language-metrics.svg" alt="Language Metrics" width="49%" />
-</p>
+<img src="assets/github-metrics.svg" alt="GitHub Metrics" height="185"/>
+<img src="assets/language-metrics.svg" alt="Language Metrics" height="185"/>
 
----
+<br/><br/>
 
-### 🐍 Codebase Activity Stream
+#### 🖥️ Active Production Repositories
 
-<p align="center">
-  <img src="./assets/grid-snake-dark.svg" alt="Activity Snake" width="100%"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=patteputejarahul1234-max&repo=Workflow-github-&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=58A6FF&icon_color=7EE787" width="400" alt="Repository Status" />
 
----
+<br/><br/>
 
-### 📜 Verified Industry Credentials
+### 🐍 Live Codebase Contribution Flow
 
-*   🏅 **NPTEL Certification Core Engineering (Gold Standard Eligibility)** — Deep systems operational verification tracking.
-*   🚀 **Smart India Hackathon (SIH) National Finalist** — Engineered distributed platform concepts under intensive production cycles.
+<img src="assets/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" width="95%"/>
 
----
+<br/><br/>
 
-### 🧠 System Engineering Focus
+### 📜 Verified Credentials & Strategic Synergy
 
-*   🛡️ **Defensive Design:** Implementing robust error handling paradigms and fail-safe system logic across all backend components.
-*   📊 **Telemetry & Metrics:** Tracking runtime performance, API latency bottlenecks, and container state health.
+🏆 **Smart India Hackathon (SIH) National Finalist** | 🏅 **NPTEL Core Engineering (Gold Standard Eligibility)**
+💼 **Target:** Software Engineering / Product Core Engineering Roles *(Target: 10+ LPA Systems Integration)*
+🎓 **Matrix:** Computer Science and Engineering | ANITS
 
----
+<br/>
 
-### 🤝 Strategic Alignment & Communications
+<img src="https://img.shields.io/badge/Security_Layer-AES_256-58A6FF?style=flat-square" alt="Security Layer" />
+<img src="https://img.shields.io/badge/System_Build-Verified-7EE787?style=flat-square" alt="Build Status" />
 
-*   **Target Vector:** Software Engineering / Product Core Engineering Roles *(Target: 10+ LPA Systems Integration)*
-*   **Education Matrix:** Computer Science and Engineering | ANITS
-*   **Synergy:** Open to collaborative initiatives targeting distributed web services, AI middleware pipelines, and cloud systems architecture optimization.
+<br/><br/>
 
----
+<img src="https://capsule-render.vercel.app/type=waving&color=0D1117&height=100&section=footer" alt="Footer Banner" width="100%" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Security_Layer-AES_256-58A6FF?style=flat-square" alt="Security Layer" />
-  <img src="https://img.shields.io/badge/System_Build-Verified-7EE787?style=flat-square" alt="Build Status" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=0D1117&height=100&section=footer" alt="Footer Banner" />
-</p>
+</div>
