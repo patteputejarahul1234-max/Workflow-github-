@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/type/rect&color=0D1117&height=220&section=header&text=PATTEPU%20TEJA%20RAHUL&fontSize=42&fontColor=58A6FF&fontAlignY=40&desc=Systems%20Architecture%20%7C%20Java%20Full%20Stack%20%7C%20Applied%20AI&descSize=18&descColor=8B949E&descAlignY=65" width="100%" alt="Enterprise Header" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=patteputejarahul1234-max&label=PROFILE+SYSTEM+TRAFFIC&color=58A6FF&style=flat-square" alt="System Traffic Counter" />
+</p>
+
 ## 🚀 Software Engineer & Product Builder
 An aspiring **Java Full Stack Developer with AI Integration** specializing in designing secure distributed backends, highly available REST APIs, and automated intelligent application layers. Currently refining robust system engineering paradigms aimed at scalable enterprise-level architectures.
 
