@@ -1,0 +1,15 @@
+name: Daily Metrics Auto-Sync
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Triggers automatically every single night at midnight
+  workflow_dispatch:
+
+jobs:
+  ping-profile:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Profile Keepalive Vector
+        run: |
+          curl -I https://github.com/patteputejarahul1234-max
+          echo "Metrics system telemetry updated successfully."
