@@ -1,0 +1,14 @@
+[
+  {
+    "name": "DevNexus",
+    "tier": "Tier-1 Production Core",
+    "stack": ["Java", "Spring Boot", "Redis", "Docker", "Applied AI"],
+    "status": "Active"
+  },
+  {
+    "name": "SkillForge AI",
+    "tier": "Tier-1 Microservices Engine",
+    "stack": ["Python", "Applied AI", "Analytics Pipeline"],
+    "status": "Active"
+  }
+]
