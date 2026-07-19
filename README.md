@@ -66,10 +66,12 @@ An aspiring Java Full Stack Developer with AI Integration specializing in design
   <img src="assets/language-metrics.svg" alt="Language Metrics" width="49%" />
 </p>
 
-### 🐍 Codebase Activity Stream
+---
+
+### 🐍 Live Codebase Contribution Flow
 
 <p align="left">
-  <img src="assets/github-contribution-grid-snake.svg" alt="Activity Stream" />
+  <img src="https://raw.githubusercontent.com/patteputejarahul1234-max/Workflow-github-/main/assets/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" width="100%" />
 </p>
 
 ---
