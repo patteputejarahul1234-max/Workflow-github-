@@ -61,6 +61,14 @@ An aspiring **Java Full Stack Developer with AI Integration** specializing in de
 
 ---
 
+#### 🖥️ Active Production Repositories
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=patteputejarahul1234-max&repo=Workflow-github-&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=58A6FF&icon_color=7EE787" max-width="49%" alt="Repository Status" />
+</p>
+
+---
+
 ### 📊 Engineering Metrics & Telemetry
 
 <p align="center">
@@ -82,6 +90,13 @@ An aspiring **Java Full Stack Developer with AI Integration** specializing in de
 
 *   🏅 **NPTEL Certification Core Engineering (Gold Standard Eligibility)** — Deep systems operational verification tracking.
 *   🚀 **Smart India Hackathon (SIH) National Finalist** — Engineered distributed platform concepts under intensive production cycles.
+
+---
+
+### 🧠 System Engineering Focus
+
+*   🛡️ **Defensive Design:** Implementing robust error handling paradigms and fail-safe system logic across all backend components.
+*   📊 **Telemetry & Metrics:** Tracking runtime performance, API latency bottlenecks, and container state health.
 
 ---
 
